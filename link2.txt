@@ -1,0 +1,11 @@
+Google search =>> https://www.google.com/search?q=how+to+make+map+website+using+geojson+file&sourceid=chrome&ie=UTF-8
+
+
+https://maptimeboston.github.io/leaflet-intro/
+
+
+base map Tile list link
+
+http://leaflet-extras.github.io/leaflet-providers/preview/
+
+
