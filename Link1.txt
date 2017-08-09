@@ -1,0 +1,48 @@
+google search =>> https://www.google.com/search?q=how+to+tile+genarete+using+openstreetmap&sourceid=chrome&ie=UTF-8
+
+1. link =>> http://wiki.openstreetmap.org/wiki/Creating_your_own_tiles
+
+Another "HOWTO deploy you mapnik slippy map" with real-time rendering
+
+Howto real time rendering
+
+2. link =>> http://wiki.openstreetmap.org/wiki/Howto_real_time_rendering
+
+Howto real time rendering with mapnik and mod python
+
+3. link =>> http://wiki.openstreetmap.org/wiki/Howto_real_time_tiles_rendering_with_mapnik_and_mod_python
+
+Starting up
+
+Mapnik to prepare things
+
+3.1 =>> http://wiki.openstreetmap.org/wiki/Mapnik
+
+Mapnik/Installation
+
+3.2 =>> http://wiki.openstreetmap.org/wiki/Mapnik/Installation
+
+Mapnik/PostGIS Install with postgis integration
+
+3.3 =>> http://wiki.openstreetmap.org/wiki/PostGIS/Installation
+
+
+Osm2pgsql compile it (package are outdated for my system ) to import the data
+
+3.4 =>> http://wiki.openstreetmap.org/wiki/Osm2pgsql
+
+
+Now  set up the real time rendering
+
+link 3. =>> 
+ 
+From
+
+Prerequist and line of installation
+
+http://wiki.openstreetmap.org/wiki/Howto_real_time_tiles_rendering_with_mapnik_and_mod_python
+
+
+
+
+
