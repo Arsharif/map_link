@@ -1,0 +1,87 @@
+====About this server=====
+
+This is a Mapnik, postgresql server of the data available from fosm.org
+
+The server has AMD 8150 Bulldozer eight core (3.6Ghz), 32 GB ram, 6Tb hdd.
+
+The server is provided by me, if you want more info contact me at info at 4x4falcon dot com
+
+It is currently (1 May 2015) running Ubuntu 12.04.5 server, postgresql 9.1, Mapnik 2.2, apache 2.2 with mod_tile, plus numerous other tools to render maps. 
+
+
+==============================================================================
+
+=>> Ubuntu 12.04.5 server
+
+http://releases.ubuntu.com/12.04/
+
+=>>postgresql 9.1
+
+https://www.postgresql.org/about/news/1349/
+
+https://www.postgresql.org/download/linux/ubuntu/
+
+
+source
+
+https://www.postgresql.org/ftp/source/v9.1.0/
+
+github
+
+https://gist.github.com/dnfehren/3218406
+https://gist.github.com/rolo/1481128
+
+
+=>>Mapnik 2.2
+
+
+https://github.com/mapnik/mapnik/wiki/UbuntuInstallation
+
+sudo add-apt-repository ppa:mapnik/v2.2.0
+sudo apt-get update
+sudo apt-get install libmapnik libmapnik-dev mapnik-utils python-mapnik
+
+
+https://launchpad.net/~mapnik/+archive/ubuntu/v2.2.0/+packages
+
+
+=>>apache 2.2
+
+
+
+https://gist.github.com/electricg/3187449
+
+https://gist.github.com/arjendk/6080388
+
+https://askubuntu.com/questions/574266/install-apache-2-2-22-on-ubuntu-14-04
+
+https://www.linode.com/docs/web-servers/apache/apache-web-server-ubuntu-12-04
+
+
+=>>mod_tile
+
+
+
+
+https://github.com/OpenHistoricalMap/ohm_mod_tile
+
+
+https://github.com/openstreetmap/mod_tile
+
+
+
+
+=>> PBF file
+
+
+http://download.bbbike.org/osm/planet/
+
+http://download.geofabrik.de/asia/bangladesh.html
+
+http://planet.openstreetmap.org/
+
+
+
+=>>Extra
+
+https://github.com/spotweb/spotweb/wiki/Install-Spotweb-on-Ubuntu-12.04-LTS-(Precise-Pangolin)-(english)
